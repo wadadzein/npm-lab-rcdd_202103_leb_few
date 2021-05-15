@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadadzein/npm-lab-rcdd_202103_leb_few.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadadzein/npm-lab-rcdd_202103_leb_few/issues"
+  },
+  "homepage": "https://github.com/wadadzein/npm-lab-rcdd_202103_leb_few#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
